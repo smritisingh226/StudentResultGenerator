@@ -1,0 +1,29 @@
+body{
+    background-color:#7492be;
+    position: relative;
+}
+h2{
+    text-align: center;
+    margin-top: 3%;
+    border: 2px solid #123c7c;
+    padding: 10px;
+    background-color: #4168a7;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.course_table{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    border: 2px solid black;
+    overflow-y: scroll;
+    height: 40vh;
+}
+#mycourse_buttons{
+    margin-top: 5%;
+    margin-left: 35%;
+}
+#add-course-btn, #update-course-btn, #delete-course-btn{
+    padding: 10px;
+    margin: 10px;
+}
