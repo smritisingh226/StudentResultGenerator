@@ -1,0 +1,39 @@
+body{
+    background-color:#7492be;
+    position: relative;
+}
+h2{
+    text-align: center;
+    margin-top: 3%;
+    border: 2px solid #123c7c;
+    padding: 10px;
+    background-color: #4168a7;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h1{
+    text-align: center;
+    margin-top: 3%;
+    border: 2px solid #123c7c;
+    padding: 10px;
+    background-color: whitesmoke;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.grade-content{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    border: 2px solid black;
+    overflow-y: scroll;
+    max-height: 40vh;
+}
+
+#grade_buttons{
+    margin-top: 10%;
+    margin-left: 40%;
+}
+#calculate-grade-btn, #calculate-gpa-btn{
+    padding: 10px;
+    margin: 10px;
+}

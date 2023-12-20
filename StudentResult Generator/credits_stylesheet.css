@@ -1,0 +1,33 @@
+body{
+    background-color:#7492be;
+}
+h2{
+    text-align: center;
+    margin-top: 3%;
+    border: 2px solid #123c7c;
+    padding: 10px;
+    background-color: #4168a7;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h1{
+    text-align: center;
+    margin-top: 3%;
+    border: 2px solid #123c7c;
+    padding: 10px;
+    background-color: whitesmoke;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.credits-display{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    border: 2px solid black;
+}
+/*#calculate-credits-btn, #cancel-credits-btn{
+    margin-left: 45%;
+    margin-right: 20%;
+    margin-top: 5%;
+}*/
